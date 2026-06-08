@@ -698,7 +698,7 @@ const publications = {
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
-    profile_image_path: "animated_ashutosh.png",
+    profile_image_path: "koushik_profile_web.png",
     description:
       "I am available on almost every social media platform. Feel free to reach out—I typically respond within 24 hours. Let's connect to discuss Full-Stack Web Development, Automation Testing frameworks, Data Analytics, or any technical collaborative opportunities!",
   },

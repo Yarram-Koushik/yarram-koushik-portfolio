@@ -192,3 +192,42 @@
     text-align: center;
   }
 }
+/* Final contact profile image */
+.contact-heading-img-div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.contact-heading-img-div > img {
+  width: 420px;
+  height: 420px;
+  object-fit: cover;
+  object-position: center;
+  border-radius: 50%;
+  border: 4px solid #001c55;
+  background-color: #e8f3f7;
+}
+
+/* Address illustration should not use profile circle */
+.address-heading-img-div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.address-heading-img-div > * {
+  max-width: 100%;
+  height: auto;
+}
+
+@media (max-width: 768px) {
+  .contact-heading-img-div > img {
+    width: 280px;
+    height: 280px;
+  }
+
+  .address-heading-img-div > * {
+    max-width: 90%;
+  }
+}
