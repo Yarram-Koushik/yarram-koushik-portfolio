@@ -2,7 +2,7 @@
   "data": [
     {
       "id": "R_kgDOBookWiseAI",
-      "name": "bookwise-ai-book-recommender",
+      "name": "BookWise AI Book Recommender",
       "createdAt": "2024-10-10T00:00:00Z",
       "url": "https://github.com/Yarram-Koushik/bookwise-ai-book-recommender",
       "description": "📚 Machine learning-based book recommendation system using cosine similarity and Kaggle user-rating datasets, achieving 85%+ recommendation relevance.",
@@ -24,7 +24,7 @@
     },
     {
       "id": "R_kgDODocAssist",
-      "name": "docassist-medical-assist",
+      "name": "DocAssist AI Medical Assistant",
       "createdAt": "2023-11-20T00:00:00Z",
       "url": "https://github.com/Yarram-Koushik",
       "description": "🤖 Generative AI medical chatbot enabling real-time query resolution with 90% response accuracy, featuring an intuitive front-end interface that boosted user engagement by 40% and optimized execution to lower live interaction latency by 30%.",
@@ -43,6 +43,28 @@
           "iconifyClass": "simple-icons:gradio"
         }
       ]
+    },
+    {
+  "id": "R_kgDOAstroSage",
+  "name": "AstroSage Call Center Performance Analysis",
+  "createdAt": "2026-07-31T00:00:00Z",
+  "url": "https://github.com/Yarram-Koushik/AstroSage-Call-Center-Analysis",
+  "description": "📊 End-to-end Excel Data Analytics project analyzing call center operations using Pivot Tables, KPI Dashboards, Charts, Data Cleaning and Business Insights to optimize customer satisfaction and operational efficiency.",
+  "isFork": false,
+  "languages": [
+    {
+      "name": "Microsoft Excel",
+      "iconifyClass": "vscode-icons:file-type-excel"
+    },
+    {
+      "name": "Pivot Tables",
+      "iconifyClass": "mdi:table-large"
+    },
+    {
+      "name": "Dashboard",
+      "iconifyClass": "mdi:view-dashboard"
     }
+  ]
+}
   ]
 }
