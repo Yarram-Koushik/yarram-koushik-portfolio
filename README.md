@@ -110,7 +110,7 @@ https://bookwise-ai-book-recommender.vercel.app/recommend
 
 🔗 Repository
 
-https://github.com/Yarram-Koushik/bookwise-ai
+https://github.com/Yarram-Koushik/bookwise-ai-book-recommender
 
 ---
 
@@ -192,10 +192,6 @@ https://www.linkedin.com/in/koushik-yarram/
 ### 💻 GitHub
 
 https://github.com/Yarram-Koushik
-
-### 📧 Email
-
-your-email@example.com
 
 ---
 
