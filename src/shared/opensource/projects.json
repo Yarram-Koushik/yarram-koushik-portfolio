@@ -26,8 +26,8 @@
       "id": "R_kgDODocAssist",
       "name": "DocAssist AI Medical Assistant",
       "createdAt": "2023-11-20T00:00:00Z",
-      "url": "https://github.com/Yarram-Koushik",
-      "description": "🤖 Generative AI medical chatbot enabling real-time query resolution with 90% response accuracy, featuring an intuitive front-end interface that boosted user engagement by 40% and optimized execution to lower live interaction latency by 30%.",
+      "url": "https://github.com/Yarram-Koushik/DocAssist",
+      "description": "🩺 DocAssist — AI-powered clinical assistant featuring RAG medical consultations, multimodal lab report OCR parsing, openFDA drug-drug interaction checker, and doctor visit PDF summary export.",
       "isFork": false,
       "languages": [
         {
@@ -35,12 +35,12 @@
           "iconifyClass": "logos:python"
         },
         {
-          "name": "OpenAI",
-          "iconifyClass": "logos:openai-icon"
+          "name": "React.js",
+          "iconifyClass": "logos:react"
         },
         {
-          "name": "Gradio",
-          "iconifyClass": "simple-icons:gradio"
+          "name": "Vite",
+          "iconifyClass": "logos:vitejs"
         }
       ]
     },
