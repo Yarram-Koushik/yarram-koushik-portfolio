@@ -65,6 +65,28 @@
       "iconifyClass": "mdi:view-dashboard"
     }
   ]
-}
+},
+{
+      "id": "R_kgDOChinookSQL",
+      "name": "Chinook Music Store SQL Data Analysis",
+      "createdAt": "2026-09-28T00:00:00Z",
+      "url": "https://github.com/Yarram-Koushik/Chinook-Music-Store-SQL-Analysis",
+      "description": "🎵 SQL-based analysis of the Chinook Digital Music Store database — customer segmentation, churn modeling (37% churn rate), CLV analysis, product affinity, and strategic business recommendations across 24 countries.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "MySQL",
+          "iconifyClass": "logos:mysql"
+        },
+        {
+          "name": "Python",
+          "iconifyClass": "logos:python"
+        },
+        {
+          "name": "Data Analysis",
+          "iconifyClass": "mdi:chart-bar"
+        }
+      ]
+    }
   ]
 }
